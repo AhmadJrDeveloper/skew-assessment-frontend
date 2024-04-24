@@ -1,0 +1,6 @@
+.list-hover:hover,
+.list-hover:hover .MuiListItemIcon-root,
+.list-hover:hover .MuiListItemText-root {
+  background-color: #1976D2 !important;
+  color: white;
+}

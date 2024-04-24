@@ -1,0 +1,15 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(231, 231, 231);
+    margin: 1rem;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+.note-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  

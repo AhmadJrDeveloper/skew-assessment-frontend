@@ -1,0 +1,7 @@
+.filter-container {
+    display:"flex" !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    background-color: red;
+    margin: 0 1rem;
+}
